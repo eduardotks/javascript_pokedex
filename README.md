@@ -1,1 +1,6 @@
-# javascript_pokedex
+## Pokedex
+
+
+### Como rodar
+
+` `
